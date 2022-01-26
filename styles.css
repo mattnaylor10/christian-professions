@@ -1,3 +1,7 @@
+body {
+    background-color: rgb(220, 231, 238);
+}
+
 .container-header {
     background-image: url(tony-image2.jpg);
     height: 600px;
