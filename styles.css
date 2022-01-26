@@ -24,11 +24,18 @@
     .websubtitle {
         font-size: 40px;
     }
+    
+.search {
+    position: relative;
+    display: flex;
+    min-width: 100px;
+    padding-top: 3px;
+}
 
 .mid-container {
     display: flex;
     height: 500px;
-    width: auto;
+    width: 100%;
     justify-content: space-between;
     padding: 8px;
     flex-direction: row;
@@ -62,4 +69,8 @@ img {
       color: black;
       display: flex;
       justify-content: space-between;
+  }
+
+  .footerlinks {
+      padding: 3px;
   }
